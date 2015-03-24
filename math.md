@@ -31,3 +31,5 @@ Efter varje uppgift ska ni *commita* lösningen.
 
 
 Lycka till.
+
+Vi är inte så bra på det här Bosse =)
